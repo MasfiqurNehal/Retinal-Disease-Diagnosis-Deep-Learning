@@ -43,22 +43,14 @@ and must **not** be used as a substitute for professional medical diagnosis.
 
 ---
 
-## Research & Development
+## Research & Development by
 
 **Md. Masfiqur Rahman Nehal**  
 B.Sc. in Computer Science & Engineering  
 Daffodil International University  
 
-<a href="https://masfiqur-nehal.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/20/000000/domain.png" />
-  <strong>Portfolio</strong>
-</a>  
-
-<a href="https://www.linkedin.com/in/masfiqur-nehal/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/20/0A66C2/linkedin.png" />
-  <strong>LinkedIn</strong>
-</a>  
-
+🌐 **Portfolio:** https://masfiqur-nehal.vercel.app/  
+🔗 **LinkedIn:** https://www.linkedin.com/in/masfiqur-nehal/ 
 📧 **Email:** masfiqur.nehal509@gmail.com  
 
 ---
