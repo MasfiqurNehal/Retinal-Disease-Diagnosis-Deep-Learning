@@ -49,9 +49,20 @@ and must **not** be used as a substitute for professional medical diagnosis.
 B.Sc. in Computer Science & Engineering  
 Daffodil International University  
 
-🌐 **Portfolio:** https://masfiqur-nehal.vercel.app/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/masfiqur-nehal/ 
-📧 **Email:** masfiqur.nehal509@gmail.com  
+🌐 **Portfolio:**  
+<a href="https://masfiqur-nehal.vercel.app/" target="_blank" rel="noopener noreferrer">
+https://masfiqur-nehal.vercel.app/
+</a>
+
+💼 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/masfiqur-nehal/" target="_blank" rel="noopener noreferrer">
+https://www.linkedin.com/in/masfiqur-nehal/
+</a>
+
+📧 **Email:**  
+<a href="mailto:masfiqur.nehal509@gmail.com">
+masfiqur.nehal509@gmail.com
+</a> 
 
 ---
 
