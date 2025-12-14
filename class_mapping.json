@@ -1,0 +1,16 @@
+{
+    "classes": [
+        "cataract",
+        "diabetic_retinopathy",
+        "glaucoma",
+        "normal"
+    ],
+    "class_to_idx": {
+        "cataract": 0,
+        "diabetic_retinopathy": 1,
+        "glaucoma": 2,
+        "normal": 3
+    },
+    "model_name": "EfficientNetB3",
+    "test_accuracy": 89.09952640533447
+}

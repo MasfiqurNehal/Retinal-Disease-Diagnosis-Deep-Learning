@@ -15,8 +15,15 @@ EfficientNetB3 achieved the highest accuracy due to efficient feature extraction
 
 ---
 
+## 🌐 Live Web Application
+Test the AI-Driven system here:  
+https://nehal-retinal-diagnosis.streamlit.app/
+
+---
+
+
 ## Dataset
-- **Source:** Eye Diseases Classification Dataset (Kaggle)
+- **Source:** Eye Diseases Classification Dataset
 - **Image Type:** Retinal Fundus Images
 - **Classes:** Cataract, Diabetic Retinopathy, Glaucoma, Normal
 
@@ -49,11 +56,17 @@ and must **not** be used as a substitute for professional medical diagnosis.
 B.Sc. in Computer Science & Engineering  
 Daffodil International University  
 
-
 🌐**Portfolio:** https://masfiqur-nehal.vercel.app/  
 💼**LinkedIn:** https://www.linkedin.com/in/masfiqur-nehal/  
 📧**Email:** masfiqur.nehal509@gmail.com
 
+(For questions, collaborations, research and development fell free to contact with me)
+
 ---
 
-(This project reflects strong skills in Deep Learning, Medical Image Analysis, and Applied AI Systems.)
+This project reflects strong skills in Deep Learning, Medical Image Analysis, and Applied AI Systems.
+
+---
+
+##⚠️ Disclaimer
+(This tool is for research and educational purposes only. It is never intended to replace professional medical diagnosis or treatment. Always consult a medical professional for diagnosis.)
