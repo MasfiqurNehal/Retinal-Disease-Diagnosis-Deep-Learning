@@ -44,9 +44,12 @@ These techniques improve transparency and trust, which is critical for healthcar
 
 ---
 
-## Disclaimer
-This project is developed **strictly for research and educational purposes only**  
-and must **not** be used as a substitute for professional medical diagnosis.
+## Key Features
+- 🎯 Multi-class classification (Normal, Diabetic Retinopathy, Cataract, Glaucoma)
+- 📊 Interactive probability visualization
+- 💡 Disease information and recommendations
+- 🚀 Fast and accurate predictions (89% accuracy)
+- 🔍 Explainable AI for model interpretability
 
 ---
 
@@ -60,7 +63,7 @@ Daffodil International University
 💼**LinkedIn:** https://www.linkedin.com/in/masfiqur-nehal/  
 📧**Email:** masfiqur.nehal509@gmail.com
 
-(For questions, collaborations, research and development fell free to contact with me)
+For questions, collaborations, research, and development, feel free to contact me.
 
 ---
 
@@ -68,5 +71,5 @@ This project reflects strong skills in Deep Learning, Medical Image Analysis, an
 
 ---
 
-##⚠️ Disclaimer
-(This tool is for research and educational purposes only. It is never intended to replace professional medical diagnosis or treatment. Always consult a medical professional for diagnosis.)
+## ⚠️ Disclaimer
+This tool is for research and educational purposes only. It is never intended to replace professional medical diagnosis or treatment. Always consult a medical professional for diagnosis.
